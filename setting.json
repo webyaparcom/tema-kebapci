@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Izgara ve pide; görseller temsilîdir.",
+    "en": "Grill and pide; images are representative.",
+    "ar": "شواء وبيرة؛ الصور تمثيلية."
+  },
+  "keyword": {
+    "tr": "kebap, ızgara, mangal",
+    "en": "kebab, grill, charcoal",
+    "ar": "كباب، شواء، فحم"
+  },
+  "category": "Kurumsal",
+  "name": "Kömür Kebap",
+  "domain": "kebapci.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "lora",
+    "heading": "playfair-display",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#C1442E",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "4px",
+    "--mx-radius-md": "6px",
+    "--mx-radius-lg": "8px",
+    "--mx-radius-xl": "11px"
+  },
+  "icon": "icon.png"
+}
