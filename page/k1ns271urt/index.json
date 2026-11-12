@@ -6,13 +6,13 @@
     "ar": "خدماتنا"
   },
   "description": {
-    "tr": "Ateşten soğana, soğandan tabağa.",
-    "en": "From fire to onion, from onion to plate.",
-    "ar": "من الحطب إلى البصل، ومن البصل إلى الطبق."
+    "tr": "Közden sofraya; ocaktan tabağa.",
+    "en": "From the embers to the table.",
+    "ar": "من الجمر إلى المائدة."
   },
   "keyword": {
     "tr": "Mutfak",
-    "en": "The kitchen",
+    "en": "Kitchen",
     "ar": "المطبخ"
   },
   "path": "hizmetler",
@@ -36,5 +36,5 @@
     "ar": "خدماتنا"
   },
   "date": "2026-11-05T18:58:36.742Z",
-  "update": "2026-11-05T23:44:39.092Z"
+  "update": "2026-11-12T07:36:15.981Z"
 }
