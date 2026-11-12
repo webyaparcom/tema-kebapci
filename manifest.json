@@ -1,7 +1,7 @@
 {
   "name": "Kömür Kebap",
   "short_name": "Kömür Kebap",
-  "description": "Izgara ve pide; görseller temsilîdir.",
+  "description": "Mangalda kebap, pide ve lahmacun; görseller temsilîdir.",
   "start_url": "/tr/",
   "scope": "/",
   "display": "standalone",

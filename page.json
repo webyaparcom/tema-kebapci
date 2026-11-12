@@ -8,9 +8,9 @@
         "ar": "خدماتنا"
       },
       "description": {
-        "tr": "Ateşten soğana, soğandan tabağa.",
-        "en": "From fire to onion, from onion to plate.",
-        "ar": "من الحطب إلى البصل، ومن البصل إلى الطبق."
+        "tr": "Közden sofraya; ocaktan tabağa.",
+        "en": "From the embers to the table.",
+        "ar": "من الجمر إلى المائدة."
       },
       "path": "hizmetler",
       "icon": "work",
@@ -51,7 +51,7 @@
       "description": {
         "tr": "Izgara ve pide; görseller temsilîdir.",
         "en": "Grill and pide; images are representative.",
-        "ar": "شواء وبيرة؛ الصور تمثيلية."
+        "ar": "مشويات وبيدا؛ الصور تمثيلية."
       }
     },
     {

@@ -2,14 +2,14 @@
   "order": false,
   "user": false,
   "description": {
-    "tr": "Izgara ve pide; görseller temsilîdir.",
-    "en": "Grill and pide; images are representative.",
-    "ar": "شواء وبيرة؛ الصور تمثيلية."
+    "tr": "Mangalda kebap, pide ve lahmacun; görseller temsilîdir.",
+    "en": "Charcoal-grilled kebab, pide and lahmacun; images are representative.",
+    "ar": "كباب مشوي على الفحم وبيدا ولحم بعجين؛ الصور تمثيلية."
   },
   "keyword": {
-    "tr": "kebap, ızgara, mangal",
-    "en": "kebab, grill, charcoal",
-    "ar": "كباب، شواء، فحم"
+    "tr": "kebap, ocakbaşı, mangal, pide, lahmacun",
+    "en": "kebab, grill house, charcoal, pide, lahmacun",
+    "ar": "كباب، منقل، فحم، بيدا، لحم بعجين"
   },
   "category": "Kurumsal",
   "name": "Kömür Kebap",
